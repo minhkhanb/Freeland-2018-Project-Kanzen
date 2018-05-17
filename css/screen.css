@@ -1,0 +1,123 @@
+.c-content .pos {
+    font-size: 12px;
+    color: #fff;
+}
+
+.advisor, .section {
+    padding-bottom: 0%;
+}
+.meet_our_team {
+    background: url(../images/bg/bgdesktop/bg6.png) top center no-repeat;
+    margin-top: 80px;
+    padding-top: 100px;
+    padding-bottom: 55%;
+}
+.section .line {
+    display: block;
+    width: 0;
+    height: 0;
+    padding: 2px 70px 2px;
+    background: #fff;
+    margin: 20px auto 30px;
+}
+.section h2 {
+    font-size: 30px;
+    color: #103365;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.meet_our_team  h2 {
+    color:#fff;
+}
+.advisor h2 {
+    color: #103365;
+}
+.c-content {
+    padding: 10px 10px 10px 50px;
+    margin-top: -35px;
+}
+.c-content h3, .c-content h3 a {
+    color:#fff;
+    font-size: 27px;
+    text-decoration: none;
+    position: relative;
+    font-weight: bold;
+}
+
+.c-content .working  {
+    font-size: 14px;
+    color:#fff;
+    letter-spacing: 1.4px;
+}
+.advisor .c-content .working,
+.advisor .c-content h3, .advisor .c-content h3 a,
+.advisor .c-content .pos{
+    color:#103365;
+}
+.bg {
+    padding: 0 20px 0 20px;
+}
+.bg .layer {
+    border-radius: 9px;
+    background-color: #0d2a53;
+    position: relative;
+    left: 18px;
+}
+.advisor .bg .layer {
+    background: rgba(216, 216, 216, 0.93);
+}
+.c-img img {
+    width: 100%;
+}
+.c-img {
+    position: relative;
+    left: -30px;
+    top: -35px;
+}
+.section .item {
+    padding-top: 60px;
+}
+.c-row {
+    padding: 0 20px;
+    margin: 0;
+}
+.c-content .join {
+    display: block;
+    width: 54px;
+    height: 54px;
+    background: url('../images/joinFFbuttons/fb.png') 0 0 no-repeat;
+    position: absolute;
+    left: -80px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.c-content .join .solid {
+    display: block;
+    width: 0;
+    height: 0;
+    padding: 1px 100px;
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.advisor .c-content .join .solid {
+    background:#103365;
+}
+.strategic .c-row {
+    text-algin:center;
+}
+.c-box {
+    display: inline-block;
+}
